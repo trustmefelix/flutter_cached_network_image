@@ -15,6 +15,7 @@ dependency_overrides:
     git:
       url: https://github.com/trustmefelix/flutter_cache_manager.git
       path: flutter_cache_manager
+      ref: develop
 
 dev_dependencies:
   flutter_test:
